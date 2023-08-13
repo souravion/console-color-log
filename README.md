@@ -22,7 +22,8 @@ npm install console-color-log
 To use the Colorful Text Utils library, follow these steps:
 1.Import the required functions from the library:
 ```
-const { green, red, bold,underline, bgGreen, bgRed } = require('console-color-log');
+<span style="color: red;">const</span> <span>{ green, red, bold,underline, bgGreen, bgRed }</span> <span>= </span>  <span style="color: blue;">require</span> <span style="color: indigo;">('console-color-log')</span>
+
 ```
 ## Stylle 
 Apply styles and colors to your text:
